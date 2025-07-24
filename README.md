@@ -1,3 +1,5 @@
+Internship at Exposys DataLabs
+
 Accurately forecasting a company's future financial success is crucial for business owners, investors, and stakeholders. Machine Learning models offer a promising solution to this challenge by utilizing historical financial data to make precise profit predictions.
  
 In this project, our goal is to create an ML model that can predict a company's profit based on three input variables: R&D Spend, Administration Cost, and Marketing Spend. The dataset for this project includes historical data from various companies, detailing the mentioned variables and their corresponding profits.
